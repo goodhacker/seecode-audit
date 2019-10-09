@@ -113,7 +113,7 @@ SeeCode Audit Community Edition
 2. 系统设计
 -------------------
 
-.. image:: https://camo.githubusercontent.com/a70248635af08eca214ec28b589ae7526fa0f940/68747470733a2f2f736565636f64652d61756469742e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f696d67312e706e67
+.. image:: images/img1.png
 
 
 2.1 存储层
