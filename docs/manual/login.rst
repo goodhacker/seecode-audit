@@ -1,6 +1,6 @@
 
 ==============
-登陆认证
+登录认证
 ==============
 
 
@@ -15,7 +15,7 @@
 
   $ python manage.py createsuperuser
 
-登陆页面
+登录页面
 
 .. image:: ../images/login.png
 
